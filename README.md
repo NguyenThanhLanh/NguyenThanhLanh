@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Welcome to my homepage<br>👯 My name is Nguyen Thanh Lanh, or you can call me LIT<br>💬 Ask me about<br>⚡ Fun fact
+🔭 Welcome to my homepage<br>👯 My name is <strong>Nguyen Thanh Lanh</strong>, or you can call me <strong>Lanh LIT</strong><br>💬 Contact me: <strong>thanhlanh12a3@gmail.com</strong><br>⚡ Coder
 
 
 ## 🌐 Socials:
