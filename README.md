@@ -1,3 +1,5 @@
+<img src="https://i.pinimg.com/originals/7d/2a/9f/7d2a9fca264faa93561f72b5fc885fec.gif" width="100%" height = "400px"/>
+
 # 💫 About Me:
 🔭 Welcome to my homepage<br>👯 My name is <strong>Nguyen Thanh Lanh</strong>, or you can call me <strong>Lanh LIT</strong><br>💬 Contact me: <strong>thanhlanh12a3@gmail.com</strong><br>⚡ Coder
 
